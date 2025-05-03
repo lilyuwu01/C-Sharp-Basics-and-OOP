@@ -1,0 +1,14 @@
+C:\Users\reggi\Desktop\practice code\compound-expression\bin\Debug\net8.0\compound-expression.exe
+C:\Users\reggi\Desktop\practice code\compound-expression\bin\Debug\net8.0\compound-expression.deps.json
+C:\Users\reggi\Desktop\practice code\compound-expression\bin\Debug\net8.0\compound-expression.runtimeconfig.json
+C:\Users\reggi\Desktop\practice code\compound-expression\bin\Debug\net8.0\compound-expression.dll
+C:\Users\reggi\Desktop\practice code\compound-expression\bin\Debug\net8.0\compound-expression.pdb
+C:\Users\reggi\Desktop\practice code\compound-expression\obj\Debug\net8.0\compound-expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reggi\Desktop\practice code\compound-expression\obj\Debug\net8.0\compound-expression.AssemblyInfoInputs.cache
+C:\Users\reggi\Desktop\practice code\compound-expression\obj\Debug\net8.0\compound-expression.AssemblyInfo.cs
+C:\Users\reggi\Desktop\practice code\compound-expression\obj\Debug\net8.0\compound-expression.csproj.CoreCompileInputs.cache
+C:\Users\reggi\Desktop\practice code\compound-expression\obj\Debug\net8.0\compound-expression.dll
+C:\Users\reggi\Desktop\practice code\compound-expression\obj\Debug\net8.0\refint\compound-expression.dll
+C:\Users\reggi\Desktop\practice code\compound-expression\obj\Debug\net8.0\compound-expression.pdb
+C:\Users\reggi\Desktop\practice code\compound-expression\obj\Debug\net8.0\compound-expression.genruntimeconfig.cache
+C:\Users\reggi\Desktop\practice code\compound-expression\obj\Debug\net8.0\ref\compound-expression.dll
