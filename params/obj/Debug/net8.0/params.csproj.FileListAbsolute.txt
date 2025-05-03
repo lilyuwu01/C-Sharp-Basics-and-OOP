@@ -1,0 +1,4 @@
+C:\Users\reggi\Desktop\practice code\params\obj\Debug\net8.0\params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reggi\Desktop\practice code\params\obj\Debug\net8.0\params.AssemblyInfoInputs.cache
+C:\Users\reggi\Desktop\practice code\params\obj\Debug\net8.0\params.AssemblyInfo.cs
+C:\Users\reggi\Desktop\practice code\params\obj\Debug\net8.0\params.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\reggi\Desktop\practice code\switch-case\bin\Debug\net8.0\switch-case.exe
+C:\Users\reggi\Desktop\practice code\switch-case\bin\Debug\net8.0\switch-case.deps.json
+C:\Users\reggi\Desktop\practice code\switch-case\bin\Debug\net8.0\switch-case.runtimeconfig.json
+C:\Users\reggi\Desktop\practice code\switch-case\bin\Debug\net8.0\switch-case.dll
+C:\Users\reggi\Desktop\practice code\switch-case\bin\Debug\net8.0\switch-case.pdb
+C:\Users\reggi\Desktop\practice code\switch-case\obj\Debug\net8.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reggi\Desktop\practice code\switch-case\obj\Debug\net8.0\switch-case.AssemblyInfoInputs.cache
+C:\Users\reggi\Desktop\practice code\switch-case\obj\Debug\net8.0\switch-case.AssemblyInfo.cs
+C:\Users\reggi\Desktop\practice code\switch-case\obj\Debug\net8.0\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\reggi\Desktop\practice code\switch-case\obj\Debug\net8.0\switch-case.dll
+C:\Users\reggi\Desktop\practice code\switch-case\obj\Debug\net8.0\refint\switch-case.dll
+C:\Users\reggi\Desktop\practice code\switch-case\obj\Debug\net8.0\switch-case.pdb
+C:\Users\reggi\Desktop\practice code\switch-case\obj\Debug\net8.0\switch-case.genruntimeconfig.cache
+C:\Users\reggi\Desktop\practice code\switch-case\obj\Debug\net8.0\ref\switch-case.dll
