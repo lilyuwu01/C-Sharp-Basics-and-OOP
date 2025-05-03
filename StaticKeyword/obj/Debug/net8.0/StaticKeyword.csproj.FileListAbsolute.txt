@@ -1,0 +1,14 @@
+C:\Users\reggi\Desktop\practice code\StaticKeyword\obj\Debug\net8.0\StaticKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reggi\Desktop\practice code\StaticKeyword\obj\Debug\net8.0\StaticKeyword.AssemblyInfoInputs.cache
+C:\Users\reggi\Desktop\practice code\StaticKeyword\obj\Debug\net8.0\StaticKeyword.AssemblyInfo.cs
+C:\Users\reggi\Desktop\practice code\StaticKeyword\obj\Debug\net8.0\StaticKeyword.csproj.CoreCompileInputs.cache
+C:\Users\reggi\Desktop\practice code\StaticKeyword\bin\Debug\net8.0\StaticKeyword.exe
+C:\Users\reggi\Desktop\practice code\StaticKeyword\bin\Debug\net8.0\StaticKeyword.deps.json
+C:\Users\reggi\Desktop\practice code\StaticKeyword\bin\Debug\net8.0\StaticKeyword.runtimeconfig.json
+C:\Users\reggi\Desktop\practice code\StaticKeyword\bin\Debug\net8.0\StaticKeyword.dll
+C:\Users\reggi\Desktop\practice code\StaticKeyword\bin\Debug\net8.0\StaticKeyword.pdb
+C:\Users\reggi\Desktop\practice code\StaticKeyword\obj\Debug\net8.0\StaticKeyword.dll
+C:\Users\reggi\Desktop\practice code\StaticKeyword\obj\Debug\net8.0\refint\StaticKeyword.dll
+C:\Users\reggi\Desktop\practice code\StaticKeyword\obj\Debug\net8.0\StaticKeyword.pdb
+C:\Users\reggi\Desktop\practice code\StaticKeyword\obj\Debug\net8.0\StaticKeyword.genruntimeconfig.cache
+C:\Users\reggi\Desktop\practice code\StaticKeyword\obj\Debug\net8.0\ref\StaticKeyword.dll

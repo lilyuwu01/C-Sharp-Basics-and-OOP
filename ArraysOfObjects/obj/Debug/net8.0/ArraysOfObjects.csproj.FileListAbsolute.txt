@@ -1,0 +1,14 @@
+C:\Users\reggi\Desktop\practice code\ArraysOfObjects\bin\Debug\net8.0\ArraysOfObjects.exe
+C:\Users\reggi\Desktop\practice code\ArraysOfObjects\bin\Debug\net8.0\ArraysOfObjects.deps.json
+C:\Users\reggi\Desktop\practice code\ArraysOfObjects\bin\Debug\net8.0\ArraysOfObjects.runtimeconfig.json
+C:\Users\reggi\Desktop\practice code\ArraysOfObjects\bin\Debug\net8.0\ArraysOfObjects.dll
+C:\Users\reggi\Desktop\practice code\ArraysOfObjects\bin\Debug\net8.0\ArraysOfObjects.pdb
+C:\Users\reggi\Desktop\practice code\ArraysOfObjects\obj\Debug\net8.0\ArraysOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reggi\Desktop\practice code\ArraysOfObjects\obj\Debug\net8.0\ArraysOfObjects.AssemblyInfoInputs.cache
+C:\Users\reggi\Desktop\practice code\ArraysOfObjects\obj\Debug\net8.0\ArraysOfObjects.AssemblyInfo.cs
+C:\Users\reggi\Desktop\practice code\ArraysOfObjects\obj\Debug\net8.0\ArraysOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\reggi\Desktop\practice code\ArraysOfObjects\obj\Debug\net8.0\ArraysOfObjects.dll
+C:\Users\reggi\Desktop\practice code\ArraysOfObjects\obj\Debug\net8.0\refint\ArraysOfObjects.dll
+C:\Users\reggi\Desktop\practice code\ArraysOfObjects\obj\Debug\net8.0\ArraysOfObjects.pdb
+C:\Users\reggi\Desktop\practice code\ArraysOfObjects\obj\Debug\net8.0\ArraysOfObjects.genruntimeconfig.cache
+C:\Users\reggi\Desktop\practice code\ArraysOfObjects\obj\Debug\net8.0\ref\ArraysOfObjects.dll

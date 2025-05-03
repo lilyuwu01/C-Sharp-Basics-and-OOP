@@ -1,0 +1,14 @@
+C:\Users\reggi\Desktop\practice code\ValidationApplication_OOP\obj\Debug\net8.0\ValidationApplication_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reggi\Desktop\practice code\ValidationApplication_OOP\obj\Debug\net8.0\ValidationApplication_OOP.AssemblyInfoInputs.cache
+C:\Users\reggi\Desktop\practice code\ValidationApplication_OOP\obj\Debug\net8.0\ValidationApplication_OOP.AssemblyInfo.cs
+C:\Users\reggi\Desktop\practice code\ValidationApplication_OOP\obj\Debug\net8.0\ValidationApplication_OOP.csproj.CoreCompileInputs.cache
+C:\Users\reggi\Desktop\practice code\ValidationApplication_OOP\bin\Debug\net8.0\ValidationApplication_OOP.exe
+C:\Users\reggi\Desktop\practice code\ValidationApplication_OOP\bin\Debug\net8.0\ValidationApplication_OOP.deps.json
+C:\Users\reggi\Desktop\practice code\ValidationApplication_OOP\bin\Debug\net8.0\ValidationApplication_OOP.runtimeconfig.json
+C:\Users\reggi\Desktop\practice code\ValidationApplication_OOP\bin\Debug\net8.0\ValidationApplication_OOP.dll
+C:\Users\reggi\Desktop\practice code\ValidationApplication_OOP\bin\Debug\net8.0\ValidationApplication_OOP.pdb
+C:\Users\reggi\Desktop\practice code\ValidationApplication_OOP\obj\Debug\net8.0\ValidationApplication_OOP.dll
+C:\Users\reggi\Desktop\practice code\ValidationApplication_OOP\obj\Debug\net8.0\refint\ValidationApplication_OOP.dll
+C:\Users\reggi\Desktop\practice code\ValidationApplication_OOP\obj\Debug\net8.0\ValidationApplication_OOP.pdb
+C:\Users\reggi\Desktop\practice code\ValidationApplication_OOP\obj\Debug\net8.0\ValidationApplication_OOP.genruntimeconfig.cache
+C:\Users\reggi\Desktop\practice code\ValidationApplication_OOP\obj\Debug\net8.0\ref\ValidationApplication_OOP.dll

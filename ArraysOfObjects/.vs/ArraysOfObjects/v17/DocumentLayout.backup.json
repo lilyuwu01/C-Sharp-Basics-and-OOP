@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\reggi\\Desktop\\practice code\\ArraysOfObjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD8D836-9C24-4874-A3BB-01A5DF602F9C}|ArraysOfObjects.csproj|c:\\users\\reggi\\desktop\\practice code\\arraysofobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD8D836-9C24-4874-A3BB-01A5DF602F9C}|ArraysOfObjects.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD8D836-9C24-4874-A3BB-01A5DF602F9C}|ArraysOfObjects.csproj|c:\\users\\reggi\\desktop\\practice code\\arraysofobjects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD8D836-9C24-4874-A3BB-01A5DF602F9C}|ArraysOfObjects.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\reggi\\Desktop\\practice code\\ArraysOfObjects\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\reggi\\Desktop\\practice code\\ArraysOfObjects\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:40:19.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\reggi\\Desktop\\practice code\\ArraysOfObjects\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\reggi\\Desktop\\practice code\\ArraysOfObjects\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:24:56.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
