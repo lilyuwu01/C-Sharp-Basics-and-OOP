@@ -1,0 +1,14 @@
+C:\Users\reggi\Desktop\practice code\multi-dimensional\bin\Debug\net8.0\multi-dimensional.exe
+C:\Users\reggi\Desktop\practice code\multi-dimensional\bin\Debug\net8.0\multi-dimensional.deps.json
+C:\Users\reggi\Desktop\practice code\multi-dimensional\bin\Debug\net8.0\multi-dimensional.runtimeconfig.json
+C:\Users\reggi\Desktop\practice code\multi-dimensional\bin\Debug\net8.0\multi-dimensional.dll
+C:\Users\reggi\Desktop\practice code\multi-dimensional\bin\Debug\net8.0\multi-dimensional.pdb
+C:\Users\reggi\Desktop\practice code\multi-dimensional\obj\Debug\net8.0\multi-dimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reggi\Desktop\practice code\multi-dimensional\obj\Debug\net8.0\multi-dimensional.AssemblyInfoInputs.cache
+C:\Users\reggi\Desktop\practice code\multi-dimensional\obj\Debug\net8.0\multi-dimensional.AssemblyInfo.cs
+C:\Users\reggi\Desktop\practice code\multi-dimensional\obj\Debug\net8.0\multi-dimensional.csproj.CoreCompileInputs.cache
+C:\Users\reggi\Desktop\practice code\multi-dimensional\obj\Debug\net8.0\multi-dimensional.dll
+C:\Users\reggi\Desktop\practice code\multi-dimensional\obj\Debug\net8.0\refint\multi-dimensional.dll
+C:\Users\reggi\Desktop\practice code\multi-dimensional\obj\Debug\net8.0\multi-dimensional.pdb
+C:\Users\reggi\Desktop\practice code\multi-dimensional\obj\Debug\net8.0\multi-dimensional.genruntimeconfig.cache
+C:\Users\reggi\Desktop\practice code\multi-dimensional\obj\Debug\net8.0\ref\multi-dimensional.dll
