@@ -1,0 +1,14 @@
+C:\Users\reggi\Desktop\practice code\creating-an-array\obj\Debug\net8.0\creating-an-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reggi\Desktop\practice code\creating-an-array\obj\Debug\net8.0\creating-an-array.AssemblyInfoInputs.cache
+C:\Users\reggi\Desktop\practice code\creating-an-array\obj\Debug\net8.0\creating-an-array.AssemblyInfo.cs
+C:\Users\reggi\Desktop\practice code\creating-an-array\obj\Debug\net8.0\creating-an-array.csproj.CoreCompileInputs.cache
+C:\Users\reggi\Desktop\practice code\creating-an-array\bin\Debug\net8.0\creating-an-array.exe
+C:\Users\reggi\Desktop\practice code\creating-an-array\bin\Debug\net8.0\creating-an-array.deps.json
+C:\Users\reggi\Desktop\practice code\creating-an-array\bin\Debug\net8.0\creating-an-array.runtimeconfig.json
+C:\Users\reggi\Desktop\practice code\creating-an-array\bin\Debug\net8.0\creating-an-array.dll
+C:\Users\reggi\Desktop\practice code\creating-an-array\bin\Debug\net8.0\creating-an-array.pdb
+C:\Users\reggi\Desktop\practice code\creating-an-array\obj\Debug\net8.0\creating-an-array.dll
+C:\Users\reggi\Desktop\practice code\creating-an-array\obj\Debug\net8.0\refint\creating-an-array.dll
+C:\Users\reggi\Desktop\practice code\creating-an-array\obj\Debug\net8.0\creating-an-array.pdb
+C:\Users\reggi\Desktop\practice code\creating-an-array\obj\Debug\net8.0\creating-an-array.genruntimeconfig.cache
+C:\Users\reggi\Desktop\practice code\creating-an-array\obj\Debug\net8.0\ref\creating-an-array.dll
