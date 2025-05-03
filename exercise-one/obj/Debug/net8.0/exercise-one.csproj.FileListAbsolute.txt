@@ -1,0 +1,14 @@
+C:\Users\reggi\Desktop\practice code\exercise-one\bin\Debug\net8.0\exercise-one.exe
+C:\Users\reggi\Desktop\practice code\exercise-one\bin\Debug\net8.0\exercise-one.deps.json
+C:\Users\reggi\Desktop\practice code\exercise-one\bin\Debug\net8.0\exercise-one.runtimeconfig.json
+C:\Users\reggi\Desktop\practice code\exercise-one\bin\Debug\net8.0\exercise-one.dll
+C:\Users\reggi\Desktop\practice code\exercise-one\bin\Debug\net8.0\exercise-one.pdb
+C:\Users\reggi\Desktop\practice code\exercise-one\obj\Debug\net8.0\exercise-one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reggi\Desktop\practice code\exercise-one\obj\Debug\net8.0\exercise-one.AssemblyInfoInputs.cache
+C:\Users\reggi\Desktop\practice code\exercise-one\obj\Debug\net8.0\exercise-one.AssemblyInfo.cs
+C:\Users\reggi\Desktop\practice code\exercise-one\obj\Debug\net8.0\exercise-one.csproj.CoreCompileInputs.cache
+C:\Users\reggi\Desktop\practice code\exercise-one\obj\Debug\net8.0\exercise-one.dll
+C:\Users\reggi\Desktop\practice code\exercise-one\obj\Debug\net8.0\refint\exercise-one.dll
+C:\Users\reggi\Desktop\practice code\exercise-one\obj\Debug\net8.0\exercise-one.pdb
+C:\Users\reggi\Desktop\practice code\exercise-one\obj\Debug\net8.0\exercise-one.genruntimeconfig.cache
+C:\Users\reggi\Desktop\practice code\exercise-one\obj\Debug\net8.0\ref\exercise-one.dll
